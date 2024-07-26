@@ -7,4 +7,4 @@ permalink: /
 title: Filosophia
 ---
 
-Welcome to the homepage of Filosophia. We are a group of science students with enthusiasm and skills for creating handy tools that can boost the daily productivity of our own and our greater mathematical/natural sciences ('natural philosophy' - hence the name) community.
+Welcome to the homepage of Filosophia studio. We are a group of science students with enthusiasm and skills for creating handy tools that can boost the daily productivity of our own and our greater mathematical/natural sciences ('natural philosophy' - hence the name) community.
