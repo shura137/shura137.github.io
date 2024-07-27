@@ -13,7 +13,7 @@ Here is a list of our ongoing projects.
 * Developer: Y. Peng
 
 
-### TypstTeX
+## TypstTeX
 **TypstTeX** is a new TeX distribution based on LaTeX that implements the main grammar and features of [Typst](https://typst.app/): this allows the user to benefit from the great convenience of Typst without losing access to the familiar and powerful TeX packages, toolchains and community resources, achieving ideal balance to empower paper-writing, quicker and more convenient than ever.
 * Status: under development
 

@@ -10,8 +10,8 @@ sciences backgrounds, but also with some engineering expertise.
 
 Current public members:
 
-- Founder, Engineer-in-Chief: Y. Peng (McGill University)
-- Management Director: Y. Wang (McGill University)
+- Founder, Engineer-in-Chief: Y. Peng
+- Management Director: Y. Wang 
 
 Information about other public members will be updated here once we have confirmed their consent to be publicised.
 
