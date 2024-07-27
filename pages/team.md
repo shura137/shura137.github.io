@@ -5,13 +5,13 @@ title: Our Team
 feedformat: row
 ---
 
-We are currently a small and private group of student developers primarily from mathematical and natural 
+We are currently a small group of student developers primarily from mathematical and natural 
 sciences backgrounds, but also with some engineering expertise. 
 
-Current public members:
+Current leadership:
 
 - Founder, Engineer-in-Chief: Y. Peng
 - Management Director: Y. Wang 
 
-Information about other public members will be updated here once we have confirmed their consent to be publicised.
+Information about other members and our collaborators will be updated here soon.
 
